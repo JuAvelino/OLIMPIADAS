@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+ xmlns:gap="http://phonegap.com/ns/1.0"
+ id="br.fib.lp5.rio2016" Version="1.0.0">
+ <name>Rio 2016</name>
+ <description>Olimpíadas Rio 2016</description>
+ <author href="http://rio2016"
+ email="rio2016@gmail.com">
+Olimpíadas Rio 2016
+ </author>
+<icon src="imagens/icon.png"></icon>
+<gap:splash src="imagens/splash.png"></gap:splash>
+<preference name="orientation" value="portrait"></preference>
+<preference name="fullscreen" value="true">
+<preference name="permissions" value="none">
+</widget>
